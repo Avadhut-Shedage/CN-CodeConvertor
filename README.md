@@ -25,5 +25,6 @@ Code Converter for Computer Network is a web-based tool for encoding and decodin
 To run the project locally:
 
 Clone this repository. 
-git clone https://github.com/dinathraut/CN-CodeGenerator.git
+git clone https://github.com/Avadhut-Shedage/CN-CodeConvertor.git
+
 
